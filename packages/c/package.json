@@ -1,5 +1,5 @@
 {
-  "name": "@sjia/c",
+  "name": "@sjia0307/c",
   "version": "1.0.3",
   "description": "> TODO: description",
   "author": "sjia0307 <“623752974@qq.com”>",
@@ -22,5 +22,5 @@
   "dependencies": {
     "axios": "^0.24.0"
   },
-  "gitHead": "e1c1aeb75830ca8c959b676b6094ed45aa59e238"
+  "gitHead": "e44bc302b3f01c293f166261fbe126a9e267ea4a"
 }
