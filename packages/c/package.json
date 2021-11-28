@@ -1,0 +1,22 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "sjia0307 <“623752974@qq.com”>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/c.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
