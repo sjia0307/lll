@@ -1,6 +1,6 @@
 {
   "name": "@sjia0307/a",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "> TODO: description",
   "author": "sjia0307 <“623752974@qq.com”>",
   "private": "true",
@@ -18,8 +18,8 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
+    "@sjia0307/c": "^1.3.0",
     "axios": "^0.21.1",
-    "lodash": "^4.17.21",
-    "@sjia0307/c": "^1.3.0"
+    "lodash": "^4.17.21"
   }
 }
