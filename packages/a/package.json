@@ -3,7 +3,6 @@
   "version": "1.4.0",
   "description": "> TODO: description",
   "author": "sjia0307 <“623752974@qq.com”>",
-  "private": "true",
   "homepage": "",
   "license": "ISC",
   "main": "lib/a.js",
