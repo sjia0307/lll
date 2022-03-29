@@ -1,6 +1,6 @@
 'use strict';
 
-const c = require('c');
+const c = require('@sjia0307/c');
 
 module.exports = a;
 
