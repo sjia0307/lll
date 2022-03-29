@@ -3,5 +3,5 @@
 module.exports = c;
 
 function c() {
-    console.log('c')
+    console.log('ccc')
 }
